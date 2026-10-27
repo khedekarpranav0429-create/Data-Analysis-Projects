@@ -1,0 +1,201 @@
+Order ID,Customer Name,Gender,Age,City,Order Date,Product,Qty,Unit Price,Total Amount,Payment Mode,Rating
+SP100000,Isha Singh,Male,58.0,Mumbai,2025-09-12,Laptop,4,55000,220000,UPI,1.0
+SP100001,Dev Kulkarni,Female,55.0,Bengaluru,2025-02-16,Mouse,5,600,3000,Net Banking,3.5
+SP100002,Sneha Iyer,Female,48.0,Delhi,2025-10-28,Mouse,2,600,1200,Cash,3.5
+SP100003,Priya Verma,Female,19.0,Nashik,2025-10-30,Keyboard,2,1200,2400,Card,4.0
+SP100004,Dev Nair,Male,64.0,Delhi,2025-11-22,Phone,4,22000,88000,Cash,4.5
+SP100005,Meera Singh,Male,18.0,Bengaluru,2025-02-26,Webcam,1,2200,2200,Cash,4.0
+SP100006,Meera Iyer,Male,32.0,Nashik,2025-05-16,Charger,4,900,3600,UPI,3.5
+SP100007,Neha Patil,Female,150.0,Pune,2025-03-24,Webcam,1,2200,2200,Cash,4.0
+SP100008,Sneha Gupta,Female,51.0,Mumbai,2025-04-25,Charger,3,900,2700,Net Banking,4.5
+SP100009,Sahil Nair,Female,30.0,Pune,2025-09-07,Keyboard,5,1200,6000,Cash,1.0
+SP100010,Sahil Shah,Female,55.0,Chennai,2025-08-31,Webcam,1,2200,2200,Card,4.0
+SP100011,Pooja Singh,Female,,Mumbai,2025-02-21,Headphones,4,2500,10000,UPI,1.0
+SP100012,Isha Singh,Female,44.0,Mumbai,2025-10-07,Keyboard,4,1200,4800,Cash,4.0
+SP100013,Priya Verma,Female,31.0,Bengaluru,2025-01-12,Mouse,3,600,1800,Card,3.5
+SP100014,Anjali Singh,Female,58.0,Mumbai,2025-03-27,Charger,2,900,1800,Net Banking,
+SP100015,Yash Mehta,Male,49.0,Mumbai,2025-07-23,Webcam,2,2200,4400,Cash,4.5
+SP100016,Arjun Singh,Male,56.0,Pune,2025-03-02,Charger,4,900,3600,Card,1.0
+SP100017,Riya Kulkarni,Female,39.0,Chennai,2025-02-28,Laptop,1,55000,55000,Net Banking,3.5
+SP100018,Neha Joshi,Male,38.0,Mumbai,2025-05-20,Charger,1,900,900,UPI,3.0
+SP100019,Karan Nair,Female,20.0,Delhi,2025-02-13,Monitor,4,9000,36000,Card,5.0
+SP100020,Neha Joshi,Male,29.0,Chennai,2025-12-20,Headphones,5,2500,12500,Card,4.5
+SP100021,Riya Singh,Female,29.0,Mumbai,2025-02-05,Headphones,4,2500,10000,Card,5.0
+SP100022,Dev Mehta,Female,31.0,Chennai,2025-07-31,Phone,3,22000,66000,Cash,2.0
+SP100023,Aarav Kulkarni,Male,51.0,Bengaluru,2025-06-07,Keyboard,5,1200,6000,Card,4.0
+SP100024,Priya Joshi,Female,20.0,Chennai,2025-06-01,Phone,3,22000,66000,Net Banking,1.0
+SP100025,Sneha Nair,Female,,Chennai,2025-02-07,Phone,3,22000,66000,UPI,4.0
+SP100026,Anjali Iyer,Female,45.0,Delhi,2025-05-07,Webcam,1,2200,2200,Cash,4.0
+SP100027,Sneha Iyer,Male,40.0,Delhi,2025-10-13,Headphones,1,2500,2500,UPI,1.0
+SP100028,Isha Singh,Male,62.0,Mumbai,2025-07-28,Headphones,3,2500,7500,Cash,3.5
+SP100029,Kavya Nair,Female,42.0,Nashik,2025-06-10,Webcam,2,2200,4400,Card,1.0
+SP100030,Aarav Gupta,Female,,Pune,2025-07-22,Headphones,5,2500,12500,Card,1.0
+SP100031,Rohan Mehta,Male,48.0,Chennai,2025-09-23,Monitor,4,9000,36000,Net Banking,4.5
+SP100032,Karan Iyer,Female,27.0,Pune,2025-01-14,Headphones,1,2500,2500,UPI,3.5
+SP100033,Kabir Gupta,Male,56.0,Nashik,2025-04-26,Mouse,2,600,1200,UPI,5.0
+SP100034,Karan Verma,Female,28.0,Nashik,2025-12-08,Monitor,2,9000,18000,UPI,2.0
+SP100035,Anjali Singh,Female,65.0,Mumbai,2025-11-22,Mouse,1,600,600,UPI,4.5
+SP100036,Vikram Gupta,Male,41.0,Delhi,2025-04-26,Webcam,5,2200,11000,UPI,4.5
+SP100037,Arjun Nair,Female,20.0,Chennai,2025-09-30,Headphones,4,2500,10000,Card,2.0
+SP100038,Yash Mehta,Male,22.0,Mumbai,2025-10-31,Laptop,5,55000,275000,Net Banking,2.0
+SP100039,Meera Verma,Female,59.0,Mumbai,2025-03-13,Monitor,1,9000,9000,Card,3.0
+SP100040,Kabir Iyer,Male,41.0,Delhi,2025-02-22,Charger,4,900,3600,Net Banking,1.0
+SP100041,Anjali Patil,Male,49.0,Nashik,2025-02-14,Phone,2,22000,44000,Card,3.5
+SP100042,Riya Verma,Male,25.0,Nashik,2025-10-21,Charger,4,900,3600,UPI,4.5
+SP100043,Sahil Patil,Male,22.0,Bengaluru,2025-12-05,Laptop,4,55000,220000,UPI,3.0
+SP100044,Rohan Singh,Female,49.0,Pune,2025-12-15,Charger,2,900,1800,Cash,3.0
+SP100045,Neha Shah,Female,43.0,Mumbai,2025-08-20,Charger,5,900,4500,Net Banking,1.0
+SP100046,Dev Singh,Male,64.0,Mumbai,2025-08-06,Monitor,1,9000,9000,UPI,5.0
+SP100047,Arjun Singh,Female,55.0,Nashik,2025-01-07,Monitor,5,9000,45000,Cash,1.0
+SP100048,Anjali Kulkarni,Male,27.0,Delhi,2025-07-13,Headphones,5,2500,12500,Net Banking,4.0
+SP100049,Riya Joshi,Male,36.0,Mumbai,2025-05-17,Charger,5,900,4500,Net Banking,3.0
+SP100050,Kavya Gupta,Male,38.0,Bengaluru,2025-04-01,Laptop,4,55000,220000,Card,2.0
+SP100051,Sahil Gupta,Female,21.0,Nashik,2025-01-25,Charger,4,900,3600,Card,4.0
+SP100052,Sneha Gupta,Male,31.0,Nashik,2025-02-22,Headphones,1,2500,2500,Net Banking,5.0
+SP100053,Sneha Mehta,Female,23.0,Delhi,2025-02-12,Mouse,1,600,600,Cash,1.0
+SP100054,Sneha Patil,Female,18.0,,2025-08-04,Monitor,1,9000,9000,Cash,4.0
+SP100055,Sahil Nair,Female,41.0,Chennai,2025-11-16,Webcam,2,2200,4400,Net Banking,4.5
+SP100056,Neha Patil,Female,27.0,Pune,2025-04-02,Mouse,1,600,600,Cash,3.5
+SP100057,Anjali Shah,Male,34.0,Nashik,2025-07-11,Charger,3,900,2700,Net Banking,
+SP100058,Rohan Shah,Male,62.0,Chennai,2025-02-06,Laptop,5,55000,275000,Net Banking,4.5
+SP100059,Vikram Iyer,Male,56.0,Bengaluru,2025-10-12,Webcam,5,2200,11000,Cash,4.0
+SP100060,Dev Patil,Female,42.0,Pune,2025-07-07,Mouse,4,600,2400,Net Banking,5.0
+SP100061,Riya Nair,Female,47.0,Pune,2025-04-08,Webcam,3,2200,6600,UPI,1.0
+SP100062,Sneha Singh,Female,27.0,Delhi,2025-05-15,Keyboard,3,1200,3600,Cash,3.0
+SP100063,Arjun Nair,Male,50.0,Pune,2025-04-19,Monitor,2,9000,18000,Net Banking,5.0
+SP100064,Tanvi Singh,Female,32.0,Delhi,2025-07-15,Monitor,5,9000,45000,Net Banking,4.5
+SP100065,Vikram Gupta,Female,42.0,Chennai,2025-08-20,Keyboard,4,1200,4800,UPI,3.0
+SP100066,Aarav Mehta,Female,50.0,Bengaluru,2025-11-11,Phone,4,22000,88000,Net Banking,1.0
+SP100067,Karan Shah,Female,52.0,Bengaluru,2025-01-31,Charger,4,900,3600,Cash,5.0
+SP100068,Kavya Iyer,Male,56.0,Delhi,2025-08-05,Monitor,1,9000,9000,Card,
+SP100069,Yash Iyer,Male,28.0,Chennai,2025-08-04,Charger,4,900,3600,UPI,1.0
+SP100070,Sneha Patil,Male,44.0,Mumbai,2025-07-28,Mouse,4,600,2400,Card,3.5
+SP100071,Dev Kulkarni,Female,55.0,Bengaluru,2025-06-29,Monitor,3,9000,27000,UPI,4.0
+SP100072,Sahil Patil,Female,21.0,Chennai,2025-02-02,Phone,5,22000,110000,Card,4.0
+SP100073,Yash Kulkarni,Male,49.0,Chennai,2025-05-02,Monitor,3,9000,27000,Cash,5.0
+SP100074,Karan Mehta,Female,34.0,Bengaluru,2025-04-25,Webcam,4,2200,8800,Card,2.0
+SP100075,Priya Iyer,Female,37.0,Chennai,2025-05-20,Charger,1,900,900,UPI,4.5
+SP100076,Yash Iyer,Male,,Bengaluru,2025-06-24,Phone,3,22000,66000,UPI,3.0
+SP100077,Aarav Kulkarni,Female,63.0,Delhi,2025-02-13,Monitor,5,9000,45000,Card,4.5
+SP100078,Rohan Patil,Male,45.0,Mumbai,2025-09-08,Charger,4,900,3600,Cash,1.0
+SP100079,Dev Gupta,Male,30.0,Nashik,2025-06-17,Laptop,3,55000,165000,Card,3.5
+SP100080,Rahul Iyer,Female,55.0,Bengaluru,2025-02-10,Laptop,2,55000,110000,Card,5.0
+SP100081,Isha Mehta,Female,57.0,Mumbai,2025-02-08,Laptop,5,55000,275000,Cash,5.0
+SP100082,Rohan Joshi,Female,20.0,Chennai,2025-11-24,Laptop,4,55000,220000,Net Banking,1.0
+SP100083,Neha Patil,Female,54.0,Chennai,2025-03-14,Phone,2,22000,44000,UPI,5.0
+SP100084,Yash Shah,Male,16.0,Mumbai,2025-01-19,Headphones,4,2500,10000,Net Banking,4.0
+SP100085,Kavya Mehta,Male,,Pune,2025-01-21,Charger,5,900,4500,Cash,4.5
+SP100086,Rohan Kulkarni,Female,50.0,Chennai,2025-11-02,Charger,5,900,4500,Card,1.0
+SP100087,Rohan Patil,Female,41.0,Bengaluru,2025-09-29,Keyboard,2,1200,2400,Cash,
+SP100088,Arjun Patil,Female,-5.0,Mumbai,2025-03-12,Laptop,5,55000,275000,UPI,2.0
+SP100089,Rahul Iyer,Female,46.0,Bengaluru,2025-01-20,Laptop,4,55000,220000,UPI,4.0
+SP100090,Vikram Gupta,Male,51.0,,2025-03-05,Laptop,1,55000,55000,Card,1.0
+SP100091,Meera Iyer,Female,38.0,Bengaluru,2025-10-14,Webcam,1,2200,2200,Card,4.0
+SP100092,Arjun Patil,Male,63.0,Bengaluru,2025-04-20,Webcam,3,2200,6600,Card,
+SP100093,Anjali Joshi,Male,63.0,Mumbai,2025-02-24,Mouse,4,600,2400,Card,3.5
+SP100094,Yash Singh,Male,21.0,Nashik,2025-02-18,Monitor,3,9000,27000,Net Banking,2.0
+SP100095,Karan Singh,Female,46.0,Delhi,2025-08-20,Laptop,2,55000,110000,Net Banking,3.0
+SP100096,Sahil Mehta,Female,45.0,Bengaluru,2025-04-26,Phone,3,22000,66000,Net Banking,1.0
+SP100097,Neha Singh,Male,27.0,Mumbai,2025-07-28,Headphones,3,2500,7500,Card,3.5
+SP100098,Rahul Joshi,Female,48.0,Bengaluru,2025-04-26,Mouse,4,600,2400,UPI,4.5
+SP100099,Sneha Singh,Female,47.0,Bengaluru,2025-05-12,Headphones,3,2500,7500,Net Banking,3.5
+SP100100,Pooja Gupta,Male,62.0,Nashik,2025-07-03,Webcam,4,2200,8800,Cash,3.5
+SP100101,Vikram Nair,Female,57.0,Delhi,2025-06-30,Headphones,4,2500,10000,UPI,1.0
+SP100102,Tanvi Gupta,Female,18.0,Mumbai,2025-04-13,Laptop,1,55000,55000,Cash,3.0
+SP100103,Dev Nair,Male,53.0,Nashik,2025-01-06,Keyboard,1,1200,1200,Card,4.5
+SP100104,Arjun Nair,Female,23.0,Pune,2025-08-08,Monitor,5,9000,45000,Cash,
+SP100105,Rahul Iyer,Male,65.0,Delhi,2025-10-09,Mouse,2,600,1200,Card,3.0
+SP100106,Rohan Kulkarni,Female,35.0,,2025-08-22,Webcam,4,2200,8800,Card,1.0
+SP100107,Riya Verma,Male,24.0,Chennai,2025-03-02,Monitor,2,9000,18000,Card,4.5
+SP100108,Kavya Verma,Male,57.0,Chennai,2025-12-28,Charger,5,900,4500,Cash,1.0
+SP100109,Sahil Nair,Male,20.0,Nashik,2025-10-03,Mouse,3,600,1800,UPI,3.5
+SP100110,Yash Patil,Male,25.0,Pune,2025-11-28,Keyboard,3,1200,3600,Net Banking,1.0
+SP100111,Sneha Mehta,Male,40.0,Nashik,2025-08-03,Monitor,2,9000,18000,Cash,
+SP100112,Anjali Mehta,Female,58.0,Nashik,2025-08-21,Laptop,1,55000,55000,Cash,4.0
+SP100113,Riya Kulkarni,Female,18.0,Chennai,2025-05-14,Keyboard,4,1200,4800,Cash,3.5
+SP100114,Yash Gupta,Male,40.0,Bengaluru,2025-10-08,Charger,2,900,1800,Cash,4.5
+SP100115,Arjun Iyer,Male,45.0,Mumbai,2025-11-07,Headphones,3,2500,7500,Card,
+SP100116,Sahil Verma,Female,21.0,Mumbai,2025-05-26,Mouse,3,600,1800,Net Banking,5.0
+SP100117,Meera Patil,Male,32.0,Pune,2025-03-11,Monitor,4,9000,36000,Card,1.0
+SP100118,Isha Singh,Male,31.0,Mumbai,2025-08-07,Mouse,5,600,3000,Cash,1.0
+SP100119,Sneha Kulkarni,Female,47.0,Chennai,2025-12-25,Keyboard,2,1200,2400,Net Banking,4.0
+SP100120,Kavya Kulkarni,Female,61.0,Bengaluru,2025-09-21,Charger,3,900,2700,Card,
+SP100121,Neha Gupta,Male,21.0,Bengaluru,2025-09-25,Mouse,4,600,2400,Net Banking,3.5
+SP100122,Kavya Joshi,Male,64.0,Mumbai,2025-12-26,Monitor,3,9000,27000,UPI,3.0
+SP100123,Kavya Kulkarni,Female,33.0,Mumbai,2025-02-15,Webcam,4,2200,8800,Card,1.0
+SP100124,Kavya Singh,Female,65.0,Nashik,2025-06-19,Mouse,4,600,2400,Card,5.0
+SP100125,Priya Kulkarni,Female,20.0,Pune,2025-07-22,Phone,3,22000,66000,Cash,4.5
+SP100126,Arjun Gupta,Male,,Mumbai,2025-05-17,Headphones,5,2500,12500,Net Banking,
+SP100127,Yash Joshi,Female,51.0,Bengaluru,2025-10-10,Headphones,1,2500,2500,UPI,5.0
+SP100128,Meera Gupta,Male,18.0,Nashik,2025-03-27,Monitor,4,9000,36000,UPI,4.0
+SP100129,Arjun Shah,Female,41.0,Pune,2025-09-05,Phone,5,22000,110000,Cash,1.0
+SP100130,Isha Gupta,Female,49.0,Pune,2025-03-28,Webcam,3,2200,6600,Card,4.5
+SP100131,Riya Gupta,Female,30.0,Chennai,2025-08-04,Mouse,2,600,1200,Card,3.0
+SP100132,Rahul Gupta,Female,25.0,Chennai,2025-01-31,Laptop,2,55000,110000,Cash,3.0
+SP100133,Arjun Gupta,Female,65.0,Bengaluru,2025-04-19,Keyboard,4,1200,4800,Net Banking,3.0
+SP100134,Rohan Verma,Male,65.0,Nashik,2025-09-13,Mouse,1,600,600,Cash,4.0
+SP100135,Neha Iyer,Male,40.0,Delhi,2025-02-19,Laptop,2,55000,110000,UPI,3.0
+SP100136,Meera Mehta,Female,16.0,Pune,2025-06-15,Laptop,1,55000,55000,Net Banking,4.0
+SP100137,Arjun Singh,Female,63.0,Nashik,2025-10-02,Charger,2,900,1800,Cash,3.5
+SP100138,Kabir Gupta,Male,27.0,Bengaluru,2025-04-29,Charger,2,900,1800,Net Banking,5.0
+SP100139,Kavya Kulkarni,Male,45.0,Bengaluru,2025-08-27,Headphones,3,2500,7500,UPI,3.0
+SP100140,Anjali Nair,Male,23.0,Delhi,2025-11-16,Webcam,2,2200,4400,UPI,2.0
+SP100141,Anjali Kulkarni,Female,55.0,Bengaluru,2025-06-10,Laptop,3,55000,165000,Net Banking,3.5
+SP100142,Pooja Joshi,Male,56.0,Chennai,2025-11-26,Charger,5,900,4500,Card,4.5
+SP100143,Sneha Verma,Male,21.0,Delhi,2025-08-27,Keyboard,1,1200,1200,Card,5.0
+SP100144,Yash Singh,Male,17.0,Nashik,2025-12-17,Webcam,3,2200,6600,Cash,1.0
+SP100145,Priya Mehta,Female,19.0,,2025-06-16,Headphones,1,2500,2500,Card,3.5
+SP100146,Aarav Shah,Female,21.0,,2025-05-21,Webcam,2,2200,4400,Net Banking,1.0
+SP100147,Arjun Mehta,Female,31.0,Delhi,2025-05-24,Charger,4,900,3600,UPI,3.0
+SP100148,Anjali Patil,Male,59.0,Mumbai,2025-01-01,Phone,1,22000,22000,UPI,3.5
+SP100149,Aarav Nair,Male,37.0,Bengaluru,2025-10-12,Headphones,3,2500,7500,Card,4.5
+SP100150,Vikram Nair,Female,28.0,Nashik,2025-06-25,Mouse,2,600,1200,Net Banking,4.0
+SP100151,Dev Nair,Male,62.0,Delhi,2025-01-18,Headphones,2,2500,5000,Card,3.5
+SP100152,Sneha Patil,Female,18.0,Pune,2025-02-20,Webcam,4,2200,8800,UPI,5.0
+SP100153,Yash Patil,Female,17.0,Mumbai,2025-02-10,Laptop,1,55000,55000,Cash,4.0
+SP100154,Priya Verma,Male,45.0,Chennai,2025-11-07,Keyboard,2,1200,2400,Card,1.0
+SP100155,Rahul Joshi,Male,,Nashik,2025-10-10,Headphones,5,2500,12500,Net Banking,4.5
+SP100156,Vikram Iyer,Female,,Nashik,2025-08-09,Headphones,2,2500,5000,Net Banking,5.0
+SP100157,Dev Gupta,Male,31.0,Bengaluru,2025-10-19,Laptop,2,55000,110000,UPI,4.0
+SP100158,Rahul Singh,Female,31.0,Chennai,2025-01-29,Headphones,2,2500,5000,Net Banking,1.0
+SP100159,Meera Shah,Female,24.0,Bengaluru,2025-09-22,Monitor,2,9000,18000,Net Banking,4.0
+SP100160,Sahil Nair,Male,60.0,Mumbai,2025-08-05,Headphones,4,2500,10000,UPI,1.0
+SP100161,Isha Joshi,Male,24.0,Chennai,2025-07-05,Webcam,1,2200,2200,UPI,5.0
+SP100162,Yash Shah,Female,65.0,Bengaluru,2025-08-02,Headphones,1,2500,2500,Card,1.0
+SP100163,Priya Gupta,Male,42.0,Mumbai,2025-08-15,Mouse,5,600,3000,UPI,2.0
+SP100164,Arjun Verma,Male,30.0,Delhi,2025-08-31,Monitor,1,9000,9000,Net Banking,4.5
+SP100165,Priya Verma,Male,27.0,Nashik,2025-11-15,Phone,1,22000,22000,Net Banking,2.0
+SP100166,Sneha Verma,Female,35.0,Chennai,2025-09-05,Mouse,4,600,2400,Cash,4.5
+SP100167,Anjali Kulkarni,Female,,Mumbai,2025-06-03,Webcam,3,2200,6600,Net Banking,3.5
+SP100168,Aarav Kulkarni,Male,42.0,Delhi,2025-05-29,Charger,1,900,900,Net Banking,1.0
+SP100169,Isha Nair,Male,50.0,Delhi,2025-02-24,Webcam,5,2200,11000,Card,5.0
+SP100170,Isha Patil,Female,58.0,Nashik,2025-11-30,Headphones,1,2500,2500,UPI,2.0
+SP100171,Tanvi Kulkarni,Female,59.0,Bengaluru,2025-05-19,Headphones,3,2500,7500,Card,3.5
+SP100172,Isha Kulkarni,Female,55.0,Nashik,2025-07-28,Laptop,4,55000,220000,Card,1.0
+SP100173,Isha Gupta,Female,55.0,Bengaluru,2025-02-06,Webcam,5,2200,11000,UPI,2.0
+SP100174,Neha Shah,Male,64.0,Nashik,2025-05-18,Keyboard,4,1200,4800,Net Banking,4.5
+SP100175,Karan Nair,Female,31.0,Delhi,2025-08-11,Charger,5,900,4500,Cash,4.0
+SP100176,Aarav Joshi,Female,62.0,Bengaluru,2025-06-20,Keyboard,3,1200,3600,UPI,2.0
+SP100177,Meera Nair,Female,22.0,Pune,2025-03-01,Headphones,2,2500,5000,Card,4.0
+SP100178,Aarav Iyer,Female,28.0,Pune,2025-02-06,Laptop,2,55000,110000,Card,4.5
+SP100179,Kabir Mehta,Male,26.0,Nashik,2025-03-09,Mouse,5,600,3000,Card,3.5
+SP100180,Neha Mehta,Male,18.0,Mumbai,2025-06-25,Laptop,3,55000,165000,UPI,5.0
+SP100181,Isha Singh,Female,21.0,Pune,2025-04-03,Phone,4,22000,88000,UPI,3.0
+SP100182,Kabir Gupta,Female,61.0,Mumbai,2025-12-26,Headphones,4,2500,10000,Cash,5.0
+SP100183,Pooja Shah,Male,22.0,Nashik,2025-04-22,Headphones,5,2500,12500,UPI,3.5
+SP100184,Sahil Gupta,Female,46.0,Delhi,2025-07-17,Keyboard,1,1200,1200,Cash,2.0
+SP100185,Neha Patil,Male,58.0,Delhi,2025-08-02,Laptop,2,55000,110000,Cash,4.5
+SP100186,Sahil Nair,Female,36.0,Mumbai,2025-10-05,Monitor,2,9000,18000,UPI,4.5
+SP100187,Karan Iyer,Male,22.0,Pune,2025-11-24,Laptop,2,55000,110000,Cash,
+SP100188,Sneha Gupta,Female,24.0,Bengaluru,2025-05-31,Keyboard,2,1200,2400,UPI,3.5
+SP100189,Tanvi Kulkarni,Male,58.0,Bengaluru,2025-11-16,Phone,2,22000,44000,Cash,3.0
+SP100190,Dev Mehta,Male,28.0,Pune,2025-02-28,Mouse,3,600,1800,UPI,5.0
+SP100191,Aarav Kulkarni,Male,41.0,Pune,2025-06-29,Laptop,5,55000,275000,Card,
+SP100192,Sahil Singh,Male,22.0,Delhi,2025-02-15,Keyboard,3,1200,3600,UPI,5.0
+SP100193,Sahil Iyer,Male,24.0,Delhi,2025-07-22,Laptop,3,55000,165000,Net Banking,2.0
+SP100194,Tanvi Shah,Male,21.0,Mumbai,2025-12-01,Phone,2,22000,44000,UPI,3.0
+SP100195,Priya Singh,Female,36.0,Bengaluru,2025-07-14,Charger,4,900,3600,Cash,2.0
+SP100196,Rohan Gupta,Female,53.0,,2025-06-21,Webcam,5,2200,11000,Net Banking,2.0
+SP100197,Isha Nair,Female,18.0,Nashik,2025-05-05,Webcam,5,2200,11000,UPI,4.5
+SP100198,Priya Kulkarni,Female,55.0,Chennai,2025-03-19,Monitor,4,9000,36000,UPI,5.0
+SP100199,Anjali Joshi,Female,16.0,Bengaluru,2025-12-29,Mouse,3,600,1800,Card,2.0
