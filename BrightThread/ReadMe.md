@@ -52,10 +52,9 @@ The analysis identified several patterns and insights from the dataset. The main
 
 - **Dataset/** — Dataset used for the case study
 - **Data-Cleaning/** — Data cleaning and preparation work
-- **Analysis/** — Spreadsheet analysis, calculations, and visualizations
-- **SQL/** — SQL queries used during the analysis
+- **Analysis/** — Spreadsheet analysis, calculations, and visualizations,SQL queries used during the analysis
 - **Tableau/** — Tableau dashboard screenshot and related files
-- **Documentation/** — Supporting project documents and final report
+
 
 ## Learning Outcomes
 
@@ -67,7 +66,7 @@ Through this case study, I gained practical experience in:
 - Working with spreadsheets for analysis
 - Creating data visualizations
 - Building a Tableau dashboard
-- Communicating data-driven insights
+
 
 ## Certification
 

@@ -18,18 +18,18 @@
 |---|---|---|
 | Date | Checked format and range | Made all dates one consistent format |
 | Order ID | Checked for blanks and repeats | Confirmed each order is recorded correctly |
-| Customer ID | 12 blank values | [add what you did, for example: left blank / marked Unknown] |
+| Customer ID | 12 blank values | Retrieve few from order id and remaining kept blank |
 | Product Name | 29 blank values | Fixed by hand, because the formula method (VLOOKUP inside ARRAYFORMULA) was slower than checking 29 rows directly |
 | SKU | Checked length | All SKUs have 10 characters, so no change needed |
 | Price | Checked for wrong or odd values | Confirmed prices are valid numbers |
-| Size | 71 values (small, medium, large) and 229 blank | Checked whether SKU could fill Size. It could not. [add your choice: left blank / filled with N/A] |
+| Size | 71 values (small, medium, large) and 229 blank | Checked whether SKU could fill Size. It could not. Kept Blank |
 | Quantity | Checked for wrong or odd values | Confirmed quantities are valid numbers |
 | Product Line | Checked values | Only two values: dog and cat |
-| Product Category | 145 blank values | [add how you filled them] |
+| Product Category | 145 blank values |  Retrived those using SKU |
 
 ## 3. Duplicate check
 - Checked for **full-row duplicates** (rows where every column is the same).
-- Result: [add how many duplicates you found and removed, or "none found"]
+- Result: No Duplicate Found
 
 ## 4. Final checks
 - No unexpected blanks left in the columns used for analysis.
